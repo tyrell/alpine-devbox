@@ -6,9 +6,10 @@ An Alpine Linux based development environment containing languages and tools I o
 
 The above command will launch the container with the current local directory mounted inside the container located at /developer
 
-## Pre-installed 
+## Pre-installed
 
-1. nodejs
+1. zsh
+2. nodejs
 2. npm
 
 
