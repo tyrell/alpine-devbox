@@ -2,7 +2,10 @@
 
 An Alpine Linux based development environment containing languages and tools I often use in my projects.
 
-`docker run --rm -it -v \`pwd\`:/developer tyrell/alpine-devbox`
+```
+docker run --rm -it -v `pwd`:/developer tyrell/alpine-devbox
+
+```
 
 The above command will launch the container with the current local directory mounted inside the container located at /developer
 
